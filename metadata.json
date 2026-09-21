@@ -1,0 +1,6 @@
+{
+  "name": "วงล้อสุ่มชื่อผู้เล่น ทีม A ทีม B",
+  "description": "เว็บแอปวงล้อสุ่มชื่อผู้เล่น ทีม A และ ทีม B สุ่มแล้วคัดออก พร้อมระบบเติมชื่อ คืนค่า และปรับแต่งทีม",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
